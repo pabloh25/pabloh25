@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pabloh25
 - 👀 I’m interested in Programming and information security
-- 🌱 I’m currently learning Abap, JavaScript, nodejs e typescript.
+- 🌱 I’m currently learning JavaScript, nodejs and AGI
 - 💞️ I’m looking to collaborate on social development projects and remote jobs
 - 📫 How to reach me linkedIn https://www.linkedin.com/in/pablohenrique-sup-dev
 
