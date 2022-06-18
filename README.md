@@ -10,4 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+[![texto alternativo][1.1]][1]
+
+[1]: http://www.twitter.com/meunome
+[1.1]: http://i.imgur.com/tXSoThF.png (texto título)
 
